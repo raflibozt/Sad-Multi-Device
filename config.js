@@ -9,10 +9,10 @@ global.owner = [
   ['+62 85171660730'],
   ['+62 85171660730'],
   ['+62 85171660730'],
-  ['+62 85171660730', 'Letta', true],
-  ['17608914335', 'Papah-Chan', true],
-  ['+62 85171660730', 'Bot', true],
-  ['+84 34 979 0091', 'Johannes', true],
+  ['+62 85171660730', 'RafliOfc', true],
+  ['+62 85171660730', 'RafliOfc', true],
+  ['+62 85171660730', 'RafliOfc', true],
+  ['+62 85171660730', 'RafliOfc', true],
   ['+62 85171660730', 'RafliBotz', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
