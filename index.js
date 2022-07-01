@@ -33,7 +33,7 @@ function start(file) {
   let p = fork()
   p.on('message', data => {
     console.log('[RECEIVED]', data)
-    switch (data) {
+    switch (data) { 
       case 'reset':
         p.process.kill()
         isRunning = false
